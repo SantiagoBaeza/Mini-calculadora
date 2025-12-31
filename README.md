@@ -44,7 +44,10 @@ Este proyecto corresponde a una práctica básica de señales y slots, aplicada 
 
 ## Comentarios finales
 
-Este ejercicio tiene como objetivo practicar la integración de lógica básica con interfaz gráfica en Qt, reforzando el concepto de **señales y slots** y la importancia de diseñar interfaces **responsivas** mediante layouts.
+Los archivos del proyecto están incluidos en este repositorio para que cualquier persona pueda descargarlos y compilarlos localmente en **Qt**.  
+De esta manera, es posible revisar el código, ejecutar la aplicación y comprobar tanto el funcionamiento de la calculadora como el manejo de errores en la división por cero.  
+
+Este ejercicio tiene como objetivo servir de práctica inicial en el uso de **señales y slots**, reforzar el diseño de interfaces con **layouts adaptables**, y dejar registro de mis avances en programación con Qt.
 
 ---
 
