@@ -1,6 +1,6 @@
-[⬅️ Volver a "Recopilación de proyectos con Qt"](https://github.com/SantiagoBaeza/Recopilacion-proyectos-Qt)
+[⬅️ Volver a "Proyectos con Qt"](https://github.com/SantiagoBaeza/proyectos-con-Qt/tree/main)
 
-# 🚀 Ejercicio 6: Mini calculadora en Qt
+# Mini calculadora en Qt
 
 Este proyecto implementa una calculadora sencilla en Qt, aplicando **señales y slots** para manejar la lógica de operaciones básicas.  
 Además, se utilizaron **layouts** para que la interfaz se adapte automáticamente al tamaño de la ventana, manteniendo la disposición de los elementos al agrandar o achicar la calculadora.
@@ -17,10 +17,10 @@ Este proyecto corresponde a una práctica básica de señales y slots, aplicada 
 ## Capturas
 
 - **Captura 01**: Compilación exitosa de la aplicación.  
-  ![Compilacion](pegar_enlace_a_captura_01)
+  ![Compilacion](https://github.com/SantiagoBaeza/Mini-calculadora/blob/main/01_captura%20.jpg)
 
 - **Captura 02**: Mensaje de error al intentar dividir por cero.  
-  ![Error](pegar_enlace_a_captura_02)
+  ![Error](https://github.com/SantiagoBaeza/Mini-calculadora/blob/main/02_aviso%20.jpg)
 
 ---
 
